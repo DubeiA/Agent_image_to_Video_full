@@ -1,0 +1,3235 @@
+{
+  "auto_1756807034_00001_.mp4": {
+    "rating": {
+      "overall_quality": 1,
+      "visual_quality": 1,
+      "motion_quality": 1,
+      "prompt_adherence": 3,
+      "creativity": 2,
+      "technical_quality": 1,
+      "anatomy_issues": true,
+      "artifacts": null,
+      "comments": "є силует , але це плямисте відео , і нічого не можливо нормально розібрати",
+      "rated_at": "2025-09-02T10:49:02.626Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756810141.370417,
+    "rated_at": "2025-09-02 10:49:01",
+    "gpt_analysis": {
+      "quality_score": 0.15,
+      "main_problems": [
+        "overall_clarity",
+        "anatomy_issues",
+        "detail_loss",
+        "silhouette_only_visible"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific detail descriptions",
+        "include clear lighting setup",
+        "specify desired texture quality",
+        "add anatomical reference points"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to 40+",
+        "raise CFG scale to 8-10",
+        "reduce frame interpolation",
+        "implement denoising strength adjustment",
+        "add motion guidance weight"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    }
+  },
+  "auto_1756806677_00001_.mp4": {
+    "rating": {
+      "overall_quality": 6,
+      "visual_quality": 7,
+      "motion_quality": 6,
+      "prompt_adherence": 8,
+      "creativity": 6,
+      "technical_quality": 5,
+      "face_distortion": true,
+      "lighting_issues": true,
+      "comments": "візуально видно що це штучне ",
+      "rated_at": "2025-09-02T10:50:39.889Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756810238.6390016,
+    "rated_at": "2025-09-02 10:50:38",
+    "processed": true
+  },
+  "auto_1756805939_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 8,
+      "motion_quality": 8,
+      "prompt_adherence": 9,
+      "creativity": 8,
+      "technical_quality": 9,
+      "is_reference": true,
+      "comments": "дуже добре"
+    },
+    "timestamp": 1757509467.5796492,
+    "rated_at": "2025-09-10 13:04:27"
+  },
+  "auto_1756806341_00001_.mp4": {
+    "rating": {
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 1,
+      "prompt_adherence": 1,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "дуже погана якість відео",
+      "rated_at": "2025-09-02T12:35:34.904Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756816533.21674,
+    "rated_at": "2025-09-02 12:35:33",
+    "processed": true
+  },
+  "auto_1756824617_00001_.mp4": {
+    "rating": {
+      "overall_quality": 5,
+      "visual_quality": 4,
+      "motion_quality": 4,
+      "prompt_adherence": 6,
+      "creativity": 4,
+      "technical_quality": 4,
+      "comments": "рухає рукою, бачу слід від руху. ",
+      "rated_at": "2025-09-02T14:59:55.504Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756825193.5189328,
+    "rated_at": "2025-09-02 14:59:53",
+    "gpt_analysis": {
+      "quality_score": 0.45,
+      "main_problems": [
+        "motion_artifacts",
+        "low_visual_fidelity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add motion-specific descriptors",
+        "include temporal stability keywords",
+        "specify movement speed and smoothness"
+      ],
+      "technical_fixes": [
+        "reduce frame interpolation rate",
+        "increase denoising strength",
+        "implement motion blur compensation",
+        "use higher step count for cleaner frames"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756824515_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 7,
+      "prompt_adherence": 7,
+      "creativity": 7,
+      "technical_quality": 7,
+      "comments": "не погано, але коли розширюю екран бачу багато пікселів. ",
+      "rated_at": "2025-09-02T15:01:00.756Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756825258.800092,
+    "rated_at": "2025-09-02 15:00:58",
+    "gpt_analysis": {
+      "quality_score": 0.7,
+      "main_problems": [
+        "resolution_scaling",
+        "pixel_clarity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add resolution-specific parameters",
+        "include upscaling-friendly elements"
+      ],
+      "technical_fixes": [
+        "increase base resolution",
+        "implement super-resolution post-processing",
+        "use higher bitrate encoding"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756824305_00001_.mp4": {
+    "rating": {
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 5,
+      "technical_quality": 2,
+      "artifacts": null,
+      "lighting_issues": true,
+      "comments": "все в кольорових rgb плямах нічого не можливо розібрати\n",
+      "rated_at": "2025-09-02T15:01:54.021Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756825312.1719453,
+    "rated_at": "2025-09-02 15:01:52",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "color_artifacts",
+        "visual_clarity",
+        "lighting_issues"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_simple",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific lighting conditions",
+        "reduce complexity of scene",
+        "specify desired color palette",
+        "add 'clear, sharp, detailed' keywords"
+      ],
+      "technical_fixes": [
+        "increase CFG scale to reduce color noise",
+        "use higher step count for better detail resolution",
+        "implement noise reduction in post-processing",
+        "reduce motion interpolation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756823986_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 8,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 8,
+      "comments": "добре, чуть не реалістичність рухів. Але добре",
+      "rated_at": "2025-09-02T15:03:00.859Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756825378.916111,
+    "rated_at": "2025-09-02 15:02:58",
+    "gpt_analysis": {
+      "quality_score": 0.75,
+      "main_problems": [
+        "motion_naturality"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add motion-specific descriptions",
+        "include natural movement terms",
+        "enhance creative elements"
+      ],
+      "technical_fixes": [
+        "reduce frame interpolation rate",
+        "implement motion smoothing",
+        "increase CFG for more realistic movement"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756823755_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 3,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 8,
+      "comments": "Не рухається взагалі",
+      "rated_at": "2025-09-02T15:03:40.307Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756825418.3635728,
+    "rated_at": "2025-09-02 15:03:38",
+    "gpt_analysis": {
+      "quality_score": 0.62,
+      "main_problems": [
+        "motion_stagnation",
+        "animation_fluidity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "increase",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "decrease"
+      },
+      "prompt_improvements": [
+        "add motion-specific descriptors",
+        "include temporal flow indicators",
+        "specify movement type and speed"
+      ],
+      "technical_fixes": [
+        "increase motion interpolation strength",
+        "adjust motion vectors weight",
+        "consider implementing frame blending"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756825809_00001_.mp4": {
+    "rating": {
+      "overall_quality": 4,
+      "visual_quality": 6,
+      "motion_quality": 6,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 3,
+      "comments": "дуже погана якість заднго фону ",
+      "rated_at": "2025-09-02T15:24:53.826Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756826691.8074296,
+    "rated_at": "2025-09-02 15:24:51",
+    "gpt_analysis": {
+      "quality_score": 0.53,
+      "main_problems": [
+        "background_quality",
+        "technical_rendering"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add detailed background descriptions",
+        "specify background elements clearly",
+        "include environment lighting details"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to 30-40",
+        "raise CFG scale for better prompt adherence",
+        "implement background detail enhancement"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756838564_00001_.mp4": {
+    "rating": {
+      "overall_quality": 6,
+      "visual_quality": 6,
+      "motion_quality": 4,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 7,
+      "anatomy_issues": true,
+      "extra_limbs": true,
+      "comments": "зайві рухи, і не рухається майже, і не дуже природньо",
+      "rated_at": "2025-09-02T18:57:33.007Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756839450.6312358,
+    "rated_at": "2025-09-02 18:57:30",
+    "gpt_analysis": {
+      "quality_score": 0.6,
+      "main_problems": [
+        "unnatural_motion",
+        "anatomy_issues",
+        "limited_movement"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific motion descriptions",
+        "include natural movement cues",
+        "specify anatomical details"
+      ],
+      "technical_fixes": [
+        "reduce motion complexity",
+        "increase anatomical control weight",
+        "implement motion smoothing"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756806141_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 8,
+      "prompt_adherence": 9,
+      "creativity": 9,
+      "technical_quality": 9,
+      "is_reference": true,
+      "comments": "Добре, дуже добре, майже реалістично"
+    },
+    "timestamp": 1757509559.507843,
+    "rated_at": "2025-09-10 13:05:59"
+  },
+  "auto_1756818351_00001_.mp4": {
+    "rating": {
+      "overall_quality": 1,
+      "visual_quality": 1,
+      "motion_quality": 7,
+      "prompt_adherence": 4,
+      "creativity": 2,
+      "technical_quality": 2,
+      "lighting_issues": true,
+      "comments": "дуже погана якість RGB шум якийсь , плями ",
+      "rated_at": "2025-09-02T20:38:53.554Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756845530.6735685,
+    "rated_at": "2025-09-02 20:38:50",
+    "gpt_analysis": {
+      "quality_score": 0.28,
+      "main_problems": [
+        "lighting_issues",
+        "rgb_noise",
+        "color_artifacts",
+        "poor_visual_fidelity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific lighting conditions",
+        "include color balance descriptors",
+        "specify desired image clarity"
+      ],
+      "technical_fixes": [
+        "increase denoising strength",
+        "implement noise reduction parameters",
+        "use higher step count (40+)",
+        "increase CFG scale to 8-10 range"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756845226_00001_.mp4": {
+    "rating": {
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 6,
+      "prompt_adherence": 4,
+      "creativity": 5,
+      "technical_quality": 2,
+      "comments": "розмитий задній план, не чітка форма людини",
+      "rated_at": "2025-09-02T20:43:01.587Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756845778.7265062,
+    "rated_at": "2025-09-02 20:42:58",
+    "gpt_analysis": {
+      "quality_score": 0.35,
+      "main_problems": [
+        "background_blur",
+        "subject_definition",
+        "overall_clarity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific background details",
+        "include clear subject description",
+        "specify desired sharpness level",
+        "add depth and composition keywords"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to 30-40",
+        "raise CFG scale to 8-10 for better prompt adherence",
+        "use denoising strength 0.6-0.7",
+        "implement background detail preservation"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756985912_00001_.mp4": {
+    "rating": {
+      "overall_quality": 4,
+      "visual_quality": 3,
+      "motion_quality": 7,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 4,
+      "comments": "",
+      "rated_at": "2025-09-04T13:09:29.552Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756991367.506739,
+    "rated_at": "2025-09-04 13:09:27",
+    "gpt_analysis": {
+      "quality_score": 0.52,
+      "main_problems": [
+        "low_visual_fidelity",
+        "technical_artifacts"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "enhance visual detail descriptions",
+        "maintain current motion descriptions"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to improve visual quality",
+        "increase CFG scale for better detail retention",
+        "maintain current motion settings as they perform well"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    }
+  },
+  "auto_1756985715_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 6,
+      "prompt_adherence": 7,
+      "creativity": 7,
+      "technical_quality": 3,
+      "anatomy_issues": true,
+      "extra_limbs": true,
+      "comments": "",
+      "rated_at": "2025-09-04T13:10:13.031Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756991411.2125514,
+    "rated_at": "2025-09-04 13:10:11",
+    "gpt_analysis": {
+      "quality_score": 0.65,
+      "main_problems": [
+        "anatomy_issues",
+        "motion_quality",
+        "technical_execution"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add anatomical reference points",
+        "include motion descriptors",
+        "specify technical requirements"
+      ],
+      "technical_fixes": [
+        "increase sampling steps for better anatomy",
+        "reduce motion complexity for better consistency",
+        "implement motion smoothing",
+        "use higher CFG for better prompt adherence"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756985539_00001_.mp4": {
+    "rating": {
+      "banned": true
+    },
+    "timestamp": 1756991421.5687106,
+    "rated_at": "2025-09-04 13:10:21",
+    "gpt_analysis": {
+      "quality_score": 0.4444444444444444,
+      "main_problems": [
+        "unknown"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "no_preference",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756985312_00001_.mp4": {
+    "rating": {
+      "banned": true
+    },
+    "timestamp": 1756991428.4713993,
+    "rated_at": "2025-09-04 13:10:28",
+    "gpt_analysis": {
+      "quality_score": 0.4444444444444444,
+      "main_problems": [
+        "unknown"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "no_preference",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756984906_00001_.mp4": {
+    "rating": {
+      "banned": true
+    },
+    "timestamp": 1756991431.5551744,
+    "rated_at": "2025-09-04 13:10:31",
+    "gpt_analysis": {
+      "quality_score": 0.4444444444444444,
+      "main_problems": [
+        "unknown"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "no_preference",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756984788_00001_.mp4": {
+    "rating": {
+      "banned": true
+    },
+    "timestamp": 1756991437.9075177,
+    "rated_at": "2025-09-04 13:10:37",
+    "gpt_analysis": {
+      "quality_score": 0.4444444444444444,
+      "main_problems": [
+        "unknown"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "no_preference",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756984578_00001_.mp4": {
+    "rating": {
+      "banned": true
+    },
+    "timestamp": 1756991460.6203837,
+    "rated_at": "2025-09-04 13:11:00",
+    "gpt_analysis": {
+      "quality_score": 0.4444444444444444,
+      "main_problems": [
+        "unknown"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "no_preference",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1756994225_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1756994717.846996,
+    "rated_at": "2025-09-04 14:05:17",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756994069_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1756994728.3894417,
+    "rated_at": "2025-09-04 14:05:28",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific descriptive elements",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion interpolation",
+        "use more conservative generation settings"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756993830_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1756994746.804347,
+    "rated_at": "2025-09-04 14:05:46",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce frame interpolation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1756993616_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 8,
+      "prompt_adherence": 9,
+      "creativity": 8,
+      "technical_quality": 8,
+      "comments": "",
+      "rated_at": "2025-09-04T14:06:22.728Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756994780.6739001,
+    "rated_at": "2025-09-04 14:06:20",
+    "gpt_analysis": {
+      "quality_score": 0.82,
+      "main_problems": [],
+      "parameter_adjustments": {
+        "sampler_preference": "maintain_current",
+        "scheduler_preference": "no_preference",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": true,
+      "learning_priority": "low"
+    },
+    "processed": true
+  },
+  "auto_1756992581_00001_.mp4": {
+    "rating": {
+      "overall_quality": 10,
+      "visual_quality": 9,
+      "motion_quality": 9,
+      "prompt_adherence": 9,
+      "creativity": 9,
+      "technical_quality": 9,
+      "comments": "",
+      "is_reference": true,
+      "rated_at": "2025-09-04T14:09:13.841Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1756994951.6210027,
+    "rated_at": "2025-09-04 14:09:11",
+    "gpt_analysis": {
+      "quality_score": 0.92,
+      "main_problems": [],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [
+        "document current prompt structure for reference",
+        "preserve existing lighting descriptions",
+        "maintain current detail level"
+      ],
+      "technical_fixes": [
+        "document current parameter configuration as baseline",
+        "save as reference preset for similar generations"
+      ],
+      "is_reference_worthy": true,
+      "learning_priority": "high"
+    }
+  },
+  "auto_1757005707_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 8,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509482.0186381,
+    "rated_at": "2025-09-10 13:04:42"
+  },
+  "auto_1757013422_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014661.678939,
+    "rated_at": "2025-09-04 19:37:41",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific detail to guide generation",
+        "include technical quality parameters in prompt"
+      ],
+      "technical_fixes": [
+        "implement stronger quality control filters",
+        "increase sampling steps to minimum 30",
+        "reduce generation speed for stability",
+        "increase CFG scale to 7-9 range"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757013152_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014664.1401253,
+    "rated_at": "2025-09-04 19:37:44",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific detail to guide generation",
+        "include technical quality parameters in prompt"
+      ],
+      "technical_fixes": [
+        "implement stronger quality control filters",
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "reduce FPS to improve frame consistency"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757012763_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014665.53564,
+    "rated_at": "2025-09-04 19:37:45",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive details",
+        "include technical quality keywords"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion interpolation",
+        "reduce frame rate to improve per-frame quality"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757012225_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014667.4838948,
+    "rated_at": "2025-09-04 19:37:47",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "fundamental_generation_failure",
+        "quality_threshold_violation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement quality checkpoints",
+        "reduce generation speed for stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757011944_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014668.5299923,
+    "rated_at": "2025-09-04 19:37:48",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific detail",
+        "include technical quality markers",
+        "specify desired style clearly"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757011161_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014674.707209,
+    "rated_at": "2025-09-04 19:37:54",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce frame interpolation"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757010752_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014676.732904,
+    "rated_at": "2025-09-04 19:37:56",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion interpolation",
+        "reduce frame rate for better stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757009430_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014679.5937357,
+    "rated_at": "2025-09-04 19:37:59",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce frame interpolation"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757008970_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014681.9780192,
+    "rated_at": "2025-09-04 19:38:01",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for prohibited content",
+        "add more specific detail guidance",
+        "include technical quality parameters in prompt",
+        "specify desired art style clearly"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 8-12 range",
+        "implement motion smoothing",
+        "reduce frame interpolation",
+        "add quality control tokens"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757008562_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014683.6712434,
+    "rated_at": "2025-09-04 19:38:03",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion interpolation",
+        "reduce frame complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757008018_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014685.6365652,
+    "rated_at": "2025-09-04 19:38:05",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce frame interpolation"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757007861_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757014687.5028238,
+    "rated_at": "2025-09-04 19:38:07",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "fundamental_generation_failure",
+        "quality_threshold_violation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement quality checkpoints",
+        "reduce generation speed for stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757014842_00001_.mp4": {
+    "rating": {
+      "overall_quality": 10,
+      "visual_quality": 10,
+      "motion_quality": 10,
+      "prompt_adherence": 10,
+      "creativity": 10,
+      "technical_quality": 10,
+      "is_reference": true,
+      "comments": "Дуже круто ! Заїбісь! "
+    },
+    "timestamp": 1757509500.2789161,
+    "rated_at": "2025-09-10 13:05:00"
+  },
+  "auto_1757073506_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 10,
+      "prompt_adherence": 10,
+      "creativity": 10,
+      "technical_quality": 10,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509551.8991504,
+    "rated_at": "2025-09-10 13:05:51"
+  },
+  "auto_1757072989_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077387.1788476,
+    "rated_at": "2025-09-05 13:03:07",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "critical_generation_failure",
+        "overall_quality_degradation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive elements",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 8-12 range",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757072719_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077390.207709,
+    "rated_at": "2025-09-05 13:03:10",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "critical_generation_failure",
+        "overall_quality_degradation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific detail guidance",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 8-12 range",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757071145_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077419.1783853,
+    "rated_at": "2025-09-05 13:03:39",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757070953_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077422.2719462,
+    "rated_at": "2025-09-05 13:03:42",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific detail to guide generation",
+        "include technical quality parameters in prompt"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion consistency checks",
+        "add quality gating parameters"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757069694_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077430.0692854,
+    "rated_at": "2025-09-05 13:03:50",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for prohibited content",
+        "add more specific detail guidance",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "implement stronger quality gates",
+        "reduce generation complexity",
+        "increase sampling steps to minimum 30",
+        "lower FPS to 15-20 for better stability",
+        "increase CFG scale to 7-8 for better prompt adherence"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757069087_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077434.7316113,
+    "rated_at": "2025-09-05 13:03:54",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for prohibited content",
+        "add more specific visual guidance",
+        "include technical constraints"
+      ],
+      "technical_fixes": [
+        "implement stricter quality gates",
+        "reduce generation complexity",
+        "increase guidance scale for better prompt adherence",
+        "reduce frame rate for better stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757068650_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757077440.1369624,
+    "rated_at": "2025-09-05 13:04:00",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "fundamental_generation_failure",
+        "quality_threshold_violation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement quality checkpoints",
+        "reduce generation speed for stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757146912_00001_.mp4": {
+    "rating": {
+      "overall_quality": 10,
+      "visual_quality": 9,
+      "motion_quality": 10,
+      "prompt_adherence": 10,
+      "creativity": 9,
+      "technical_quality": 9,
+      "comments": "Каміни і вогонь не дуже добре виглядають "
+    },
+    "timestamp": 1757512944.586478,
+    "rated_at": "2025-09-10 14:02:24"
+  },
+  "auto_1757147790_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757148928.1938658,
+    "rated_at": "2025-09-06 08:55:28",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive details",
+        "include technical quality keywords"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757145591_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 9,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 7,
+      "comments": "Трохи розмивається коли дівчина рухається , трохи обличчя візуально не правильне ",
+      "rated_at": "2025-09-06T08:56:56.397Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149018.2457101,
+    "rated_at": "2025-09-06 08:56:58",
+    "gpt_analysis": {
+      "quality_score": 0.77,
+      "main_problems": [
+        "motion_blur",
+        "minor_face_accuracy"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "enhance facial feature descriptions",
+        "add motion clarity keywords",
+        "specify facial proportions"
+      ],
+      "technical_fixes": [
+        "reduce frame interpolation rate",
+        "increase sampling steps for face regions",
+        "implement motion-adaptive sampling"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1757144184_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149031.1572838,
+    "rated_at": "2025-09-06 08:57:11",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific detail to guide generation",
+        "include technical quality parameters in prompt"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement quality gating checks",
+        "reduce generation speed for stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757143520_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149036.1614249,
+    "rated_at": "2025-09-06 08:57:16",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757143044_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149041.8667881,
+    "rated_at": "2025-09-06 08:57:21",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive details",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "use more stable sampler like Euler a",
+        "reduce FPS to improve frame consistency"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757141465_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149048.550808,
+    "rated_at": "2025-09-06 08:57:28",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific detail",
+        "include technical quality markers",
+        "specify desired style clearly"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757124565_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149069.6843808,
+    "rated_at": "2025-09-06 08:57:49",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific detail for scene composition",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement strict content filtering",
+        "reduce frame rate for better stability"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757148591_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149082.5404863,
+    "rated_at": "2025-09-06 08:58:02",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include specific quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion model with lower FPS",
+        "use quality-focused VAE"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757148988_00001_.mp4": {
+    "rating": {
+      "overall_quality": 6,
+      "visual_quality": 6,
+      "motion_quality": 4,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 6,
+      "comments": "дуже повільно, деталі і обличчя трохи піксельні, розпливаються",
+      "rated_at": "2025-09-06T09:00:29.031Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149230.7354429,
+    "rated_at": "2025-09-06 09:00:30",
+    "gpt_analysis": {
+      "quality_score": 0.58,
+      "main_problems": [
+        "motion_smoothness",
+        "detail_preservation",
+        "frame_interpolation"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "increase",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add motion speed descriptors",
+        "emphasize sharpness and clarity",
+        "include detail preservation terms"
+      ],
+      "technical_fixes": [
+        "increase frame interpolation quality",
+        "boost detail preservation settings",
+        "implement motion smoothing",
+        "increase resolution for face details"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757148280_00001_.mp4": {
+    "rating": {
+      "overall_quality": 3,
+      "visual_quality": 2,
+      "motion_quality": 4,
+      "prompt_adherence": 6,
+      "creativity": 4,
+      "technical_quality": 2,
+      "comments": "",
+      "rated_at": "2025-09-06T09:01:02.936Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149264.5490901,
+    "rated_at": "2025-09-06 09:01:04",
+    "gpt_analysis": {
+      "quality_score": 0.35,
+      "main_problems": [
+        "overall_low_quality",
+        "poor_visual_fidelity",
+        "technical_rendering_issues"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add more detailed visual descriptors",
+        "include technical quality keywords",
+        "specify desired rendering style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to 30-40",
+        "raise CFG scale to 8-10 for better prompt adherence",
+        "use higher quality model checkpoint"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757147634_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 9,
+      "prompt_adherence": 9,
+      "creativity": 8,
+      "technical_quality": 8,
+      "comments": "",
+      "rated_at": "2025-09-06T09:01:53.483Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149315.2848608,
+    "rated_at": "2025-09-06 09:01:55",
+    "gpt_analysis": {
+      "quality_score": 0.83,
+      "main_problems": [],
+      "parameter_adjustments": {
+        "sampler_preference": "maintain_current",
+        "scheduler_preference": "prefer_normal",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "maintain",
+        "cfg_adjustment": "maintain"
+      },
+      "prompt_improvements": [],
+      "technical_fixes": [],
+      "is_reference_worthy": true,
+      "learning_priority": "low"
+    },
+    "processed": true
+  },
+  "auto_1757147420_00001_.mp4": {
+    "rating": {
+      "overall_quality": 3,
+      "visual_quality": 2,
+      "motion_quality": 5,
+      "prompt_adherence": 6,
+      "creativity": 5,
+      "technical_quality": 3,
+      "comments": "",
+      "rated_at": "2025-09-06T09:02:23.743Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149345.5470943,
+    "rated_at": "2025-09-06 09:02:25",
+    "gpt_analysis": {
+      "quality_score": 0.32,
+      "main_problems": [
+        "overall_low_quality",
+        "poor_visual_fidelity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add more detailed visual descriptors",
+        "include specific quality-related terms",
+        "strengthen composition guidance"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to 30+",
+        "raise CFG scale for better prompt adherence",
+        "use higher quality preset settings"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757147116_00001_.mp4": {
+    "rating": {
+      "overall_quality": 2,
+      "visual_quality": 3,
+      "motion_quality": 2,
+      "prompt_adherence": 6,
+      "creativity": 7,
+      "technical_quality": 2,
+      "comments": "",
+      "rated_at": "2025-09-06T09:02:50.588Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757149372.3302279,
+    "rated_at": "2025-09-06 09:02:52",
+    "gpt_analysis": {
+      "quality_score": 0.37,
+      "main_problems": [
+        "low_technical_quality",
+        "poor_motion_consistency",
+        "subpar_visual_fidelity"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "enhance technical specifications in prompt",
+        "add motion-specific descriptors",
+        "maintain current creative elements"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to at least 30",
+        "reduce FPS to improve frame-to-frame quality",
+        "increase CFG scale for better prompt adherence",
+        "implement motion smoothing techniques"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757146565_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149471.263424,
+    "rated_at": "2025-09-06 09:04:31",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for prohibited content",
+        "add more specific detail guidance",
+        "include technical quality parameters in prompt"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement quality gating checks",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757146060_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757149474.15065,
+    "rated_at": "2025-09-06 09:04:34",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "generation_failure",
+        "possible_banned_content"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "review prompt for banned/inappropriate content",
+        "add more specific descriptive elements",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion smoothing",
+        "reduce frame interpolation"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757145817_00001_.mp4": {
+    "rating": {
+      "overall_quality": 10,
+      "visual_quality": 9,
+      "motion_quality": 10,
+      "prompt_adherence": 10,
+      "creativity": 10,
+      "technical_quality": 10,
+      "is_reference": true,
+      "comments": "Ідеально , тільки коли вона гладить груди і руки торкаються води, вода не пускає хвилі. Але так то дуже добре! "
+    },
+    "timestamp": 1757509545.5979247,
+    "rated_at": "2025-09-10 13:05:45"
+  },
+  "auto_1756874392_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 8,
+      "creativity": 7,
+      "technical_quality": 7,
+      "comments": "Зайва рука"
+    },
+    "timestamp": 1757149954.5469835,
+    "rated_at": "2025-09-06 09:12:34",
+    "gpt_analysis": {
+      "quality_score": 0.73,
+      "main_problems": [
+        "anatomical_accuracy",
+        "motion_consistency"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "maintain",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "add specific hand/arm positioning details",
+        "include anatomical constraints in prompt",
+        "strengthen composition description"
+      ],
+      "technical_fixes": [
+        "increase attention to anatomical regions",
+        "boost steps to 30-35 for better detail control",
+        "increase CFG scale slightly for better prompt adherence"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "medium"
+    },
+    "processed": true
+  },
+  "auto_1757350763_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757352930.3789968,
+    "rated_at": "2025-09-08 17:35:30",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive details",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale to 7-9 range",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757350523_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757352943.6368887,
+    "rated_at": "2025-09-08 17:35:43",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more detailed scene description",
+        "include technical quality markers"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757350309_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757352946.4797115,
+    "rated_at": "2025-09-08 17:35:46",
+    "gpt_analysis": {
+      "quality_score": 0.2,
+      "main_problems": [
+        "severe_quality_issues",
+        "fundamental_generation_failure"
+      ],
+      "parameter_adjustments": {
+        "sampler_preference": "prefer_stable",
+        "scheduler_preference": "prefer_karras",
+        "fps_adjustment": "decrease",
+        "steps_adjustment": "increase",
+        "cfg_adjustment": "increase"
+      },
+      "prompt_improvements": [
+        "rebuild prompt from scratch",
+        "add more specific descriptive details",
+        "include technical quality keywords",
+        "specify desired art style"
+      ],
+      "technical_fixes": [
+        "increase sampling steps to minimum 30",
+        "raise CFG scale for better prompt adherence",
+        "implement motion smoothing",
+        "reduce generation complexity"
+      ],
+      "is_reference_worthy": false,
+      "learning_priority": "high"
+    },
+    "processed": true
+  },
+  "auto_1757458645_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504092.1134691,
+    "rated_at": "2025-09-10 11:34:52"
+  },
+  "auto_1757458379_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504098.1162739,
+    "rated_at": "2025-09-10 11:34:58"
+  },
+  "auto_1757457773_00001_.mp4": {
+    "rating": {
+      "overall_quality": 6,
+      "visual_quality": 5,
+      "motion_quality": 5,
+      "prompt_adherence": 5,
+      "creativity": 5,
+      "technical_quality": 5,
+      "face_distortion": true,
+      "artifacts": null,
+      "comments": "",
+      "rated_at": "2025-09-10T11:37:43.799Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757504266.0479383,
+    "rated_at": "2025-09-10 11:37:46"
+  },
+  "auto_1757458010_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504430.1881487,
+    "rated_at": "2025-09-10 11:40:30"
+  },
+  "auto_1757455144_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504449.3419578,
+    "rated_at": "2025-09-10 11:40:49"
+  },
+  "auto_1757454898_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504451.897675,
+    "rated_at": "2025-09-10 11:40:51"
+  },
+  "auto_1757454364_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504454.365501,
+    "rated_at": "2025-09-10 11:40:54"
+  },
+  "auto_1757454173_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 8,
+      "prompt_adherence": 9,
+      "creativity": 9,
+      "technical_quality": 9,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509494.3931916,
+    "rated_at": "2025-09-10 13:04:54"
+  },
+  "auto_1757452811_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504501.5709999,
+    "rated_at": "2025-09-10 11:41:41"
+  },
+  "auto_1757452437_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 9,
+      "prompt_adherence": 9,
+      "creativity": 8,
+      "technical_quality": 9,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509488.4992383,
+    "rated_at": "2025-09-10 13:04:48"
+  },
+  "auto_1757450811_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 8,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 8,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509532.3976376,
+    "rated_at": "2025-09-10 13:05:32"
+  },
+  "auto_1757449788_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504601.054938,
+    "rated_at": "2025-09-10 11:43:21"
+  },
+  "auto_1757449527_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504614.4402857,
+    "rated_at": "2025-09-10 11:43:34"
+  },
+  "auto_1757448820_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504617.9480977,
+    "rated_at": "2025-09-10 11:43:37"
+  },
+  "auto_1757447266_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504639.7231956,
+    "rated_at": "2025-09-10 11:43:59"
+  },
+  "auto_1757447134_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 6,
+      "motion_quality": 9,
+      "prompt_adherence": 8,
+      "creativity": 7,
+      "technical_quality": 7,
+      "comments": "",
+      "rated_at": "2025-09-10T11:44:23.539Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757504665.6831393,
+    "rated_at": "2025-09-10 11:44:25"
+  },
+  "auto_1757446858_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757504676.6360915,
+    "rated_at": "2025-09-10 11:44:36"
+  },
+  "auto_1757446734_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 8,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509525.5743427,
+    "rated_at": "2025-09-10 13:05:25"
+  },
+  "auto_1757457401_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 6,
+      "motion_quality": 4,
+      "prompt_adherence": 7,
+      "creativity": 6,
+      "technical_quality": 7,
+      "comments": "",
+      "rated_at": "2025-09-10T12:38:09.097Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757507891.2124186,
+    "rated_at": "2025-09-10 12:38:11"
+  },
+  "auto_1757455718_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757507989.4559722,
+    "rated_at": "2025-09-10 12:39:49"
+  },
+  "auto_1757455498_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757507992.8830745,
+    "rated_at": "2025-09-10 12:39:52"
+  },
+  "gen_1757508597_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757509343.243622,
+    "rated_at": "2025-09-10 13:02:23"
+  },
+  "gen_1757508464_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757509345.0472345,
+    "rated_at": "2025-09-10 13:02:25"
+  },
+  "gen_1757508189_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 8,
+      "motion_quality": 9,
+      "prompt_adherence": 9,
+      "creativity": 9,
+      "technical_quality": 9,
+      "is_reference": true,
+      "comments": null
+    },
+    "timestamp": 1757509473.7100716,
+    "rated_at": "2025-09-10 13:04:33"
+  },
+  "gen_1757512213_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 7,
+      "prompt_adherence": 7,
+      "creativity": 7,
+      "technical_quality": 6,
+      "comments": "",
+      "rated_at": "2025-09-10T14:06:57.611Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513219.52218,
+    "rated_at": "2025-09-10 14:06:59"
+  },
+  "gen_1757511902_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 8,
+      "prompt_adherence": 7,
+      "creativity": 7,
+      "technical_quality": 7,
+      "extra_limbs": true,
+      "comments": "",
+      "rated_at": "2025-09-10T14:07:14.813Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513236.751838,
+    "rated_at": "2025-09-10 14:07:16"
+  },
+  "gen_1757511788_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 6,
+      "creativity": 7,
+      "technical_quality": 7,
+      "comments": "не природньо",
+      "rated_at": "2025-09-10T14:07:43.617Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513265.4236426,
+    "rated_at": "2025-09-10 14:07:45"
+  },
+  "gen_1757511574_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 6,
+      "prompt_adherence": 7,
+      "creativity": 7,
+      "technical_quality": 6,
+      "comments": "",
+      "rated_at": "2025-09-10T14:08:06.950Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513288.7795181,
+    "rated_at": "2025-09-10 14:08:08"
+  },
+  "gen_1757511325_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 7,
+      "motion_quality": 7,
+      "prompt_adherence": 6,
+      "creativity": 7,
+      "technical_quality": 7,
+      "comments": "",
+      "rated_at": "2025-09-10T14:08:32.755Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513314.6523044,
+    "rated_at": "2025-09-10 14:08:34"
+  },
+  "gen_1757511021_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 7,
+      "creativity": 8,
+      "technical_quality": 8,
+      "comments": "",
+      "rated_at": "2025-09-10T14:08:57.449Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513339.5921981,
+    "rated_at": "2025-09-10 14:08:59"
+  },
+  "gen_1757512725_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 7,
+      "motion_quality": 6,
+      "prompt_adherence": 9,
+      "creativity": 8,
+      "technical_quality": 6,
+      "comments": "",
+      "rated_at": "2025-09-10T14:09:44.647Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513386.6881638,
+    "rated_at": "2025-09-10 14:09:46"
+  },
+  "gen_1757510170_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513390.3078709,
+    "rated_at": "2025-09-10 14:09:50"
+  },
+  "gen_1757509849_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513393.933545,
+    "rated_at": "2025-09-10 14:09:53"
+  },
+  "gen_1757509597_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513396.4757686,
+    "rated_at": "2025-09-10 14:09:56"
+  },
+  "gen_1757508899_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513397.7624173,
+    "rated_at": "2025-09-10 14:09:57"
+  },
+  "gen_1757507573_00001_.mp4": {
+    "rating": {
+      "overall_quality": 7,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 8,
+      "comments": "",
+      "rated_at": "2025-09-10T14:10:11.699Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513413.4984448,
+    "rated_at": "2025-09-10 14:10:13"
+  },
+  "gen_1757507377_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 8,
+      "prompt_adherence": 10,
+      "creativity": 9,
+      "technical_quality": 9,
+      "comments": "",
+      "is_reference": true,
+      "rated_at": "2025-09-10T14:10:35.945Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513437.7499561,
+    "rated_at": "2025-09-10 14:10:37"
+  },
+  "auto_1757457087_00001_.mp4": {
+    "rating": {
+      "overall_quality": 8,
+      "visual_quality": 8,
+      "motion_quality": 7,
+      "prompt_adherence": 8,
+      "creativity": 8,
+      "technical_quality": 8,
+      "comments": "",
+      "rated_at": "2025-09-10T14:11:07.133Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757513468.9536116,
+    "rated_at": "2025-09-10 14:11:08"
+  },
+  "auto_1757456941_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513472.334065,
+    "rated_at": "2025-09-10 14:11:12"
+  },
+  "auto_1757456663_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513474.0897875,
+    "rated_at": "2025-09-10 14:11:14"
+  },
+  "auto_1757453562_00001_.mp4": {
+    "rating": {
+      "banned": true,
+      "overall_quality": 2,
+      "visual_quality": 2,
+      "motion_quality": 2,
+      "prompt_adherence": 2,
+      "creativity": 2,
+      "technical_quality": 2,
+      "comments": "Auto-banned via QA UI"
+    },
+    "timestamp": 1757513481.5141478,
+    "rated_at": "2025-09-10 14:11:21"
+  },
+  "test_openrouter.mp4": {
+    "rating": {
+      "overall_quality": 6,
+      "visual_quality": 7,
+      "comments": "Тестуємо OpenRouter інтеграцію",
+      "artifacts": true
+    },
+    "timestamp": 1757513934.3708556,
+    "rated_at": "2025-09-10 14:18:54"
+  },
+  "gen_1757514306_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 10,
+      "prompt_adherence": 9,
+      "creativity": 9,
+      "technical_quality": 9,
+      "comments": "",
+      "is_reference": true,
+      "rated_at": "2025-09-10T14:36:20.195Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757514982.0314305,
+    "rated_at": "2025-09-10 14:36:22"
+  },
+  "test_after_agent_patch.mp4": {
+    "rating": {
+      "overall_quality": 3,
+      "visual_quality": 4,
+      "comments": "Тест OpenRouter після патчу агента - низька якість для тестування",
+      "artifacts": true,
+      "face_distortion": true,
+      "anatomy_issues": true
+    },
+    "timestamp": 1757515094.1985707,
+    "rated_at": "2025-09-10 14:38:14"
+  },
+  "gen_1757532425_00001_.mp4": {
+    "rating": {
+      "overall_quality": 9,
+      "visual_quality": 9,
+      "motion_quality": 10,
+      "prompt_adherence": 9,
+      "creativity": 10,
+      "technical_quality": 10,
+      "comments": "",
+      "is_reference": true,
+      "rated_at": "2025-09-10T20:39:38.505Z",
+      "rated_by": "manual_review"
+    },
+    "timestamp": 1757536779.5489068,
+    "rated_at": "2025-09-10 20:39:39"
+  }
+}

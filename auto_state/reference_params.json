@@ -1,0 +1,175 @@
+[
+  {
+    "params": {
+      "sampler": "dpm_2_ancestral",
+      "scheduler": "normal",
+      "fps": 28,
+      "seconds": 6.0,
+      "width": 512,
+      "height": 768,
+      "cfg_scale": 1.0,
+      "steps": 5,
+      "prompt": "PROFESSIONAL EROTIC VIDEO: Ultra-high definition 4K cinematic production, Professional cinema camera with 85mm prime lens, FEATURED MODEL: captivating 22-year-old mixed-race woman with exotic beauty and naturally graceful movements, balanced hourglass figure with natural C-cup breasts and 24-inch waist, WARDROBE: wearing emerald green silk lingerie with golden chain details and cutouts, SCENE: sitting cross-legged on designer carpet with natural grace in glass penthouse - contemporary penthouse living space with city skyline view, Ultra-high definition skin rendering with natural texture, Professional cinematography with intimate framing, Perfect anatomical accuracy with enhanced feminine appeal, Perfect human anatomy with realistic proportions, Correct number of limbs and fingers, Beautiful symmetric facial features, Natural authentic feminine movement with professional video standards, Luxury aesthetic with sophisticated erotic cinematography",
+      "negative_prompt": "色调艳丽，过曝，静态，细节模糊不清，最差质量，低质量，丑陋的，残缺的, 画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体, deformed, malformed, extra arms, extra legs, distorted face, anatomical errors, blurry, low quality, worst quality, jpeg artifacts, duplicate, morbid, mutilated, bad anatomy, bad proportions, extra fingers, fused fingers, artificial, plastic, fake, deformed, malformed, distorted, extra arms, extra legs, extra fingers, distorted face, asymmetric face, blurry, low quality, pixelated, anime, manga, cartoon, animated, 2d, illustration, drawing, sketch, painting, artwork, digital art, cgi, 3d render, stylized, cel shading, toon shading, comic style, graphic novel, webtoon, manhwa, chibi, kawaii, doll, toy, figurine, plastic, artificial, fake, synthetic, rendered, computer generated, video game character, fantasy character, unreal, surreal, abstract, conceptual, artistic interpretation, low quality, worst quality, blurry, out of focus, pixelated, compressed, jpeg artifacts, noise, grain, distorted, deformed, disfigured, malformed, mutated, ugly, grotesque, hideous, repulsive, bad anatomy, wrong anatomy, extra limbs, missing limbs, extra arms, missing arms, extra legs, missing legs, extra fingers, missing fingers, fused fingers, too many fingers, extra hands, missing hands, malformed hands, bad hands, poorly drawn hands, extra heads, missing head, multiple heads, extra eyes, missing eyes, cross-eyed, extra mouth, missing mouth, extra nose, bad face, poorly drawn face, asymmetrical face, long neck, short neck, thick neck, no neck, extra body parts, missing body parts, floating limbs, disconnected limbs, cropped limbs, cut off, out of frame, text, watermark, signature, logo, username, artist name, copyright, brand, trademark, oversaturated, undersaturated, overexposed, underexposed, high contrast, low contrast, monochrome when color expected, sepia, black and white when color expected, static, motionless, frozen, lifeless, robotic, mechanical, stiff, unnatural movement, jerky animation, low frame rate, stuttering, glitching, artifacting",
+      "prefix": "gen_1757508189"
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "normal",
+      "seconds": 5.0
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpm_2_ancestral",
+      "scheduler": "normal",
+      "fps": 28,
+      "seconds": 6.0,
+      "width": 512,
+      "height": 768,
+      "cfg_scale": 1.0,
+      "steps": 5,
+      "prompt": "PROFESSIONAL EROTIC VIDEO: Ultra-high definition 4K cinematic production, Professional cinema camera with 85mm prime lens, FEATURED MODEL: captivating 22-year-old mixed-race woman with exotic beauty and naturally graceful movements, balanced hourglass figure with natural C-cup breasts and 24-inch waist, WARDROBE: wearing emerald green silk lingerie with golden chain details and cutouts, SCENE: sitting cross-legged on designer carpet with natural grace in glass penthouse - contemporary penthouse living space with city skyline view, Ultra-high definition skin rendering with natural texture, Professional cinematography with intimate framing, Perfect anatomical accuracy with enhanced feminine appeal, Perfect human anatomy with realistic proportions, Correct number of limbs and fingers, Beautiful symmetric facial features, Natural authentic feminine movement with professional video standards, Luxury aesthetic with sophisticated erotic cinematography",
+      "negative_prompt": "色调艳丽，过曝，静态，细节模糊不清，最差质量，低质量，丑陋的，残缺的, 画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体, deformed, malformed, extra arms, extra legs, distorted face, anatomical errors, blurry, low quality, worst quality, jpeg artifacts, duplicate, morbid, mutilated, bad anatomy, bad proportions, extra fingers, fused fingers, artificial, plastic, fake, deformed, malformed, distorted, extra arms, extra legs, extra fingers, distorted face, asymmetric face, blurry, low quality, pixelated, anime, manga, cartoon, animated, 2d, illustration, drawing, sketch, painting, artwork, digital art, cgi, 3d render, stylized, cel shading, toon shading, comic style, graphic novel, webtoon, manhwa, chibi, kawaii, doll, toy, figurine, plastic, artificial, fake, synthetic, rendered, computer generated, video game character, fantasy character, unreal, surreal, abstract, conceptual, artistic interpretation, low quality, worst quality, blurry, out of focus, pixelated, compressed, jpeg artifacts, noise, grain, distorted, deformed, disfigured, malformed, mutated, ugly, grotesque, hideous, repulsive, bad anatomy, wrong anatomy, extra limbs, missing limbs, extra arms, missing arms, extra legs, missing legs, extra fingers, missing fingers, fused fingers, too many fingers, extra hands, missing hands, malformed hands, bad hands, poorly drawn hands, extra heads, missing head, multiple heads, extra eyes, missing eyes, cross-eyed, extra mouth, missing mouth, extra nose, bad face, poorly drawn face, asymmetrical face, long neck, short neck, thick neck, no neck, extra body parts, missing body parts, floating limbs, disconnected limbs, cropped limbs, cut off, out of frame, text, watermark, signature, logo, username, artist name, copyright, brand, trademark, oversaturated, undersaturated, overexposed, underexposed, high contrast, low contrast, monochrome when color expected, sepia, black and white when color expected, static, motionless, frozen, lifeless, robotic, mechanical, stiff, unnatural movement, jerky animation, low frame rate, stuttering, glitching, artifacting",
+      "prefix": "gen_1757508189"
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m",
+      "scheduler": "normal",
+      "fps": 15,
+      "seconds": 8.0,
+      "width": 640,
+      "height": 504,
+      "cfg_scale": 1.0,
+      "steps": 8
+    }
+  },
+  {
+    "params": {
+      "sampler": "euler",
+      "scheduler": "normal",
+      "fps": 28,
+      "seconds": 8.0,
+      "width": 512,
+      "height": 768,
+      "cfg_scale": 1.0,
+      "steps": 8
+    }
+  },
+  {
+    "params": {
+      "sampler": "euler",
+      "scheduler": "simple",
+      "fps": 30,
+      "seconds": 5.0,
+      "width": 768,
+      "height": 432,
+      "cfg_scale": 1.0,
+      "steps": 4
+    }
+  },
+  {
+    "params": {
+      "sampler": "euler",
+      "scheduler": "normal",
+      "fps": 25,
+      "seconds": 5.0,
+      "width": 512,
+      "height": 768,
+      "cfg_scale": 1.0,
+      "steps": 4
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "simple",
+      "fps": 15,
+      "seconds": 6.0,
+      "width": 512,
+      "height": 768,
+      "cfg_scale": 1.0,
+      "steps": 5
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2s_ancestral",
+      "scheduler": "karras",
+      "fps": 28,
+      "seconds": 8.0,
+      "width": 640,
+      "height": 504,
+      "cfg_scale": 1.0,
+      "steps": 10
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "simple",
+      "fps": 25,
+      "seconds": 6.0,
+      "width": 640,
+      "height": 640,
+      "cfg_scale": 1.0,
+      "steps": 4
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpm_2_ancestral",
+      "scheduler": "normal",
+      "fps": 25,
+      "seconds": 5.0,
+      "width": 640,
+      "height": 640,
+      "cfg_scale": 1.0,
+      "steps": 4
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "simple",
+      "fps": 30,
+      "seconds": 6.0,
+      "width": 640,
+      "height": 504,
+      "cfg_scale": 1.0,
+      "steps": 4,
+      "prompt": "PROFESSIONAL EROTIC VIDEO: Ultra-high definition 4K cinematic production, Professional cinema camera with 85mm prime lens, FEATURED MODEL: captivating 22-year-old mixed-race woman with exotic beauty and naturally graceful movements, voluptuous bombshell with enormous natural H-cup breasts and perfect hourglass shape, WARDROBE: in pure white bridal lingerie set with pearl and delicate lace accents, SCENE: relaxing in spa atmosphere with soft towels in marble bathroom - elegant spa bathroom with marble surfaces and warm lighting, Ultra-high definition skin rendering with natural texture, Professional cinematography with intimate framing, Perfect anatomical accuracy with enhanced feminine appeal, Perfect human anatomy with realistic proportions, Correct number of limbs and fingers, Beautiful symmetric facial features, Natural authentic feminine movement with professional video standards, Luxury aesthetic with sophisticated erotic cinematography",
+      "negative_prompt": "色调艳丽，过曝，静态，细节模糊不清，最差质量，低质量，丑陋的，残缺的, 画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体, deformed, malformed, extra arms, extra legs, distorted face, anatomical errors, blurry, low quality, worst quality, jpeg artifacts, duplicate, morbid, mutilated, bad anatomy, bad proportions, extra fingers, fused fingers, artificial, plastic, fake, deformed, malformed, distorted, extra arms, extra legs, extra fingers, distorted face, asymmetric face, blurry, low quality, pixelated, anime, manga, cartoon, animated, 2d, illustration, drawing, sketch, painting, artwork, digital art, cgi, 3d render, stylized, cel shading, toon shading, comic style, graphic novel, webtoon, manhwa, chibi, kawaii, doll, toy, figurine, plastic, artificial, fake, synthetic, rendered, computer generated, video game character, fantasy character, unreal, surreal, abstract, conceptual, artistic interpretation, low quality, worst quality, blurry, out of focus, pixelated, compressed, jpeg artifacts, noise, grain, distorted, deformed, disfigured, malformed, mutated, ugly, grotesque, hideous, repulsive, bad anatomy, wrong anatomy, extra limbs, missing limbs, extra arms, missing arms, extra legs, missing legs, extra fingers, missing fingers, fused fingers, too many fingers, extra hands, missing hands, malformed hands, bad hands, poorly drawn hands, extra heads, missing head, multiple heads, extra eyes, missing eyes, cross-eyed, extra mouth, missing mouth, extra nose, bad face, poorly drawn face, asymmetrical face, long neck, short neck, thick neck, no neck, extra body parts, missing body parts, floating limbs, disconnected limbs, cropped limbs, cut off, out of frame, text, watermark, signature, logo, username, artist name, copyright, brand, trademark, oversaturated, undersaturated, overexposed, underexposed, high contrast, low contrast, monochrome when color expected, sepia, black and white when color expected, static, motionless, frozen, lifeless, robotic, mechanical, stiff, unnatural movement, jerky animation, low frame rate, stuttering, glitching, artifacting",
+      "prefix": "gen_1757507377"
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "normal",
+      "seconds": 5.0,
+      "prompt": "PROFESSIONAL EROTIC VIDEO: Ultra-high definition 4K cinematic production, Professional cinema camera with 85mm prime lens, FEATURED MODEL: attractive 27-year-old Japanese woman with delicate features and silky straight hair, curvy woman with massive ass cheeks and perfect hourglass proportions, WARDROBE: in luxurious black silk bra and panties with intricate Venice lace details, SCENE: lounging seductively on Italian leather furniture in minimalist penthouse - contemporary penthouse living space with city skyline view, Ultra-high definition skin rendering with natural texture, Professional cinematography with intimate framing, Perfect anatomical accuracy with enhanced feminine appeal, Perfect human anatomy with realistic proportions, Correct number of limbs and fingers, Beautiful symmetric facial features, Natural authentic feminine movement with professional video standards, Luxury aesthetic with sophisticated erotic cinematography",
+      "negative_prompt": "色调艳丽，过曝，静态，细节模糊不清，最差质量，低质量，丑陋的，残缺的, 画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体, deformed, malformed, extra arms, extra legs, distorted face, anatomical errors, blurry, low quality, worst quality, jpeg artifacts, duplicate, morbid, mutilated, bad anatomy, bad proportions, extra fingers, fused fingers, artificial, plastic, fake, deformed, malformed, distorted, extra arms, extra legs, extra fingers, distorted face, asymmetric face, blurry, low quality, pixelated, anime, manga, cartoon, animated, 2d, illustration, drawing, sketch, painting, artwork, digital art, cgi, 3d render, stylized, cel shading, toon shading, comic style, graphic novel, webtoon, manhwa, chibi, kawaii, doll, toy, figurine, plastic, artificial, fake, synthetic, rendered, computer generated, video game character, fantasy character, unreal, surreal, abstract, conceptual, artistic interpretation, low quality, worst quality, blurry, out of focus, pixelated, compressed, jpeg artifacts, noise, grain, distorted, deformed, disfigured, malformed, mutated, ugly, grotesque, hideous, repulsive, bad anatomy, wrong anatomy, extra limbs, missing limbs, extra arms, missing arms, extra legs, missing legs, extra fingers, missing fingers, fused fingers, too many fingers, extra hands, missing hands, malformed hands, bad hands, poorly drawn hands, extra heads, missing head, multiple heads, extra eyes, missing eyes, cross-eyed, extra mouth, missing mouth, extra nose, bad face, poorly drawn face, asymmetrical face, long neck, short neck, thick neck, no neck, extra body parts, missing body parts, floating limbs, disconnected limbs, cropped limbs, cut off, out of frame, text, watermark, signature, logo, username, artist name, copyright, brand, trademark, oversaturated, undersaturated, overexposed, underexposed, high contrast, low contrast, monochrome when color expected, sepia, black and white when color expected, static, motionless, frozen, lifeless, robotic, mechanical, stiff, unnatural movement, jerky animation, low frame rate, stuttering, glitching, artifacting",
+      "prefix": "gen_1757514306"
+    }
+  },
+  {
+    "params": {
+      "sampler": "dpmpp_2m_sde",
+      "scheduler": "simple",
+      "fps": 30,
+      "seconds": 6.0,
+      "width": 640,
+      "height": 504,
+      "cfg_scale": 1.0,
+      "steps": 4,
+      "prefix": "gen_1757532425",
+      "prompt": "PROFESSIONAL EROTIC VIDEO: Ultra-high definition 4K cinematic production, Professional cinema camera with 85mm prime lens, FEATURED MODEL: captivating 23-year-old Chinese model with mysterious charm and silky straight hair, ultra-curvy goddess with enormous natural H-cup breasts AND gigantic round ass, WARDROBE: in romantic off-shoulder dress with delicate fabric and flowing design, SCENE: sitting on bed edge in revealing lingerie with soft shadows, gracefully adjusting hair while maintaining eye contact with camera in yacht luxury cabin - luxurious master bedroom with silk sheets and ambient lighting, Ultra-high definition skin rendering with natural texture, Professional cinematography with intimate framing, Perfect anatomical accuracy with enhanced feminine appeal, Perfect human anatomy with realistic proportions, Correct number of limbs and fingers, Beautiful symmetric facial features, Natural authentic feminine movement with professional video standards, Luxury aesthetic with sophisticated erotic cinematography [id:1757532425]",
+      "negative_prompt": "色调艳丽，过曝，静态，细节模糊不清，最差质量，低质量，丑陋的，残缺的, 画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体, deformed, malformed, extra arms, extra legs, distorted face, anatomical errors, blurry, low quality, worst quality, jpeg artifacts, duplicate, morbid, mutilated, bad anatomy, bad proportions, extra fingers, fused fingers, artificial, plastic, fake, deformed, malformed, distorted, extra arms, extra legs, extra fingers, distorted face, asymmetric face, blurry, low quality, pixelated, anime, manga, cartoon, animated, 2d, illustration, drawing, sketch, painting, artwork, digital art, cgi, 3d render, stylized, cel shading, toon shading, comic style, graphic novel, webtoon, manhwa, chibi, kawaii, doll, toy, figurine, plastic, artificial, fake, synthetic, rendered, computer generated, video game character, fantasy character, unreal, surreal, abstract, conceptual, artistic interpretation, low quality, worst quality, blurry, out of focus, pixelated, compressed, jpeg artifacts, noise, grain, distorted, disfigured, malformed, mutated, ugly, grotesque, hideous, repulsive, bad anatomy, wrong anatomy, extra limbs, missing limbs, extra arms, missing arms, extra legs, missing legs, extra fingers, missing fingers, fused fingers, too many fingers, extra hands, missing hands, malformed hands, bad hands, poorly drawn hands, extra heads, missing head, multiple heads, extra eyes, missing eyes, cross-eyed, extra mouth, missing mouth, extra nose, bad face, poorly drawn face, asymmetrical face, long neck, short neck, thick neck, no neck, extra body parts, missing body parts, floating limbs, disconnected limbs, cropped limbs, cut off, out of frame, text, watermark, signature, logo, username, artist name, copyright, brand, trademark, oversaturated, undersaturated, overexposed, underexposed, high contrast, low contrast, monochrome when color expected, sepia, black and white when color expected, static, motionless, frozen, lifeless, robotic, mechanical, stiff, unnatural movement, jerky animation, low frame rate, stuttering, glitching, artifacting"
+    }
+  }
+]

@@ -8,8 +8,7 @@ logs/
 *.jsonl
 
 # Наші артефакти/стан/вивід
-runs/**
-auto_state/**
+
 /workspace/ComfyUI/output/**
 /workspace/ComfyUI/input/**
 
