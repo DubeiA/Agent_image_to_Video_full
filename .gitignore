@@ -1,0 +1,29 @@
+# Python/build
+__pycache__/
+*.pyc
+.venv/
+.env
+logs/
+*.log
+*.jsonl
+
+# Наші артефакти/стан/вивід
+runs/**
+auto_state/**
+/workspace/ComfyUI/output/**
+/workspace/ComfyUI/input/**
+
+# Моделі та великі ваги
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+*.onnx
+
+# Відео/зображення артефакти (якщо не потрібні в репо)
+*.mp4
+*.webm
+
+# IDE
+.vscode/
+.idea/
